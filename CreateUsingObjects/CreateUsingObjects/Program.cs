@@ -32,10 +32,10 @@ namespace HypotenuseFind
                 {
                     Console.WriteLine("Not a positive number.");
                 }
-            }
+            }   
 
             Console.WriteLine($"Hypotenuse of right triangle with sides {firstSide} and {secondSide} is {Math.Sqrt(Math.Pow(firstSide, 2) + Math.Pow(secondSide, 2)):f2}");
-            Console.ReadLine();
+            
         }
     }
 }
