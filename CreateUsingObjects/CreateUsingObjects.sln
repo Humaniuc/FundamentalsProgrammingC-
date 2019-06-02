@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HypotenuseCalc", "CreateUsi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountingTimeElepsedSystemStart", "CountingTimeElepsedSystemStart\CountingTimeElepsedSystemStart.csproj", "{20FB9FB8-07E9-401E-B5A5-7F85F539DC36}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeapYear", "LeapYear\LeapYear.csproj", "{C35C3497-877B-48E2-8EB1-AF769DFB32E0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{20FB9FB8-07E9-401E-B5A5-7F85F539DC36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{20FB9FB8-07E9-401E-B5A5-7F85F539DC36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{20FB9FB8-07E9-401E-B5A5-7F85F539DC36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C35C3497-877B-48E2-8EB1-AF769DFB32E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C35C3497-877B-48E2-8EB1-AF769DFB32E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C35C3497-877B-48E2-8EB1-AF769DFB32E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C35C3497-877B-48E2-8EB1-AF769DFB32E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
